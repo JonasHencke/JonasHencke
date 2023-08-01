@@ -2,6 +2,11 @@
 
 Self-taught Web Developer from Germany. Eager to learn something new everyday!
 
+currently learning:
+<br/></br>
+![HTML](https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+
 ## Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?logo=CSS3&logoColor=white)
