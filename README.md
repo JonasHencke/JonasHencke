@@ -11,7 +11,7 @@ currently learning:
 ## Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=HTML5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?logo=CSS3&logoColor=white&style=for-the-badge)
-![Javascript](https://img.shields.io/badge/Javascript-ebde34?logo=Javascript&logoColor=black&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/Javascript-black?logo=Javascript&logoColor=ebde34&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-34baeb?logo=react&logoColor=white&style=for-the-badge)
 ![react router](https://img.shields.io/badge/react%20router-red?logo=react-router&logoColor=black&style=for-the-badge)
 ![npm](https://img.shields.io/badge/npm-cb3837?logo=npm&logoColor=white&style=for-the-badge)
