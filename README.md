@@ -2,7 +2,7 @@
 
 Self-taught Web Developer from Germany. Eager to learn something new everyday!
 
-currently learning:
+Currently learning:
 <br/></br>
 ![HTML](https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/SASS-cc6699?logo=sass&logoColor=white&style=for-the-badge)
@@ -18,3 +18,7 @@ currently learning:
 ![Webpack](https://img.shields.io/badge/webpack-1c78c0?logo=webpack&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-A45EE9?logo=vite&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFA611?logo=firebase&logoColor=white&style=for-the-badge)
+
+## More About Me
+
+![test](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-1997&theme=transparent)
