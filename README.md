@@ -5,6 +5,7 @@ Self-taught Web Developer from Germany. Eager to learn something new everyday!
 Currently learning:
 <br/></br>
 ![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
+![Vitest](https://img.shields.io/badge/vitest-green?logo=vitest&logoColor=FFEA00&style=for-the-badge)
 
 ## Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=HTML5&logoColor=white&style=for-the-badge)
@@ -12,7 +13,7 @@ Currently learning:
 ![Javascript](https://img.shields.io/badge/Javascript-black?logo=Javascript&logoColor=ebde34&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-34baeb?logo=react&logoColor=white&style=for-the-badge)
-![react router](https://img.shields.io/badge/react%20router-red?logo=react-router&logoColor=black&style=for-the-badge)
+![react router](https://img.shields.io/badge/react%20router-red?logo=react-router&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/SASS-cc6699?logo=sass&logoColor=white&style=for-the-badge)
 ![npm](https://img.shields.io/badge/npm-cb3837?logo=npm&logoColor=white&style=for-the-badge)
 ![Webpack](https://img.shields.io/badge/webpack-1c78c0?logo=webpack&logoColor=white&style=for-the-badge)
