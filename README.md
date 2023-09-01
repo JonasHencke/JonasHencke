@@ -6,6 +6,7 @@ Currently learning:
 <br/></br>
 ![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
 ![Vitest](https://img.shields.io/badge/vitest-green?logo=vitest&logoColor=FFEA00&style=for-the-badge)
+![Nodejs](https://img.shields.io/badge/Node.JS-6DA55F?logo=Node.JS&logoColor=white&style=for-the-badge)
 
 ## Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=HTML5&logoColor=white&style=for-the-badge)
