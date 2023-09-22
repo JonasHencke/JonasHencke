@@ -2,6 +2,8 @@
 
 Self-taught Web Developer from Germany. Eager to learn something new everyday!
 
+[My Portfolio Website 💻](https://jonas-1997.github.io/portfolio/#hero)
+
 Currently learning:
 <br/></br>
 ![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
