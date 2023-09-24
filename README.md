@@ -2,7 +2,7 @@
 
 Self-taught Web Developer from Germany. Eager to learn something new everyday!
 
-[My Portfolio Website 💻](https://jonas-1997.github.io/portfolio/#hero)
+[My Portfolio Website 💻](https://JonasHencke.github.io/portfolio/#hero)
 
 Currently learning:
 <br/></br>
@@ -25,4 +25,4 @@ Currently learning:
 
 ## More About Me
 
-![test](https://github-readme-stats.vercel.app/api/top-langs/?username=jonas-1997&theme=react)
+![test](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasHencke&theme=react)
