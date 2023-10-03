@@ -1,15 +1,20 @@
 ## About Me
 
-Self-taught Web Developer from Germany. Eager to learn something new everyday!
+Self-taught Web Developer from Germany passionate about exploring the Javascript/Typescript ecosystem.
+<br/>
+Mostly working with frontend technologies such as React but also interested in backend technologies.
+<br/><br/>
+Currently working on my portfolio page and projects.
+<br/><br/>
+Eager to learn something new everyday!
 
 [My Portfolio Website 💻](https://JonasHencke.github.io/portfolio/#hero)
 
 Currently learning:
 <br/></br>
-![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
-![Vitest](https://img.shields.io/badge/vitest-green?logo=vitest&logoColor=FFEA00&style=for-the-badge)
 ![Nodejs](https://img.shields.io/badge/Node.JS-6DA55F?logo=Node.JS&logoColor=white&style=for-the-badge)
-
+![Vitest](https://img.shields.io/badge/vitest-green?logo=vitest&logoColor=FFEA00&style=for-the-badge)
+![Next](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
 ## Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=HTML5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?logo=CSS3&logoColor=white&style=for-the-badge)
