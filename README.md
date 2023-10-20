@@ -4,8 +4,6 @@ Self-taught Web Developer from Germany passionate about exploring the Javascript
 <br/>
 Mostly working with frontend technologies such as React but also interested in backend technologies.
 <br/><br/>
-Currently working on my portfolio page and projects.
-<br/><br/>
 Eager to learn something new everyday!
 
 [My Portfolio Website 💻](https://JonasHencke.github.io/portfolio/#hero)
