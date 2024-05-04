@@ -11,7 +11,6 @@ Eager to learn something new everyday!
 Currently learning:
 <br/></br>
 ![PHP](https://img.shields.io/badge/php-787CB4?logo=php&logoColor=white&style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7E1BF9?logo=bootstrap&logoColor=white&style=for-the-badge)
 ## Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=HTML5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?logo=CSS3&logoColor=white&style=for-the-badge)
@@ -24,6 +23,7 @@ Currently learning:
 ![Webpack](https://img.shields.io/badge/webpack-1c78c0?logo=webpack&logoColor=white&style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-A45EE9?logo=vite&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFA611?logo=firebase&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/bootstrap-7E1BF9?logo=bootstrap&logoColor=white&style=for-the-badge)
 
 ## More About Me
 
