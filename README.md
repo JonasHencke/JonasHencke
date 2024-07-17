@@ -24,6 +24,7 @@ Currently learning:
 ![Vite](https://img.shields.io/badge/Vite-A45EE9?logo=vite&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFA611?logo=firebase&logoColor=white&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7E1BF9?logo=bootstrap&logoColor=white&style=for-the-badge)
+![GitLab](https://img.shields.io/badge/gitlab-F56924?logo=gitlab&logoColor=white&style=for-the-badge)
 
 ## More About Me
 
