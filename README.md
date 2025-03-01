@@ -11,6 +11,8 @@ Eager to learn something new everyday!
 Currently learning:
 <br/></br>
 ![Node.JS](https://img.shields.io/badge/node.js-5DAE47?logo=node.js&logoColor=white&style=for-the-badge)
+![Expo](https://img.shields.io/badge/expo-000121?logo=expo&logoColor=white&style=for-the-badge)
+
 
 ## Technologies & Tools
 ![HTML](https://img.shields.io/badge/HTML-e34c26?logo=HTML5&logoColor=white&style=for-the-badge)
