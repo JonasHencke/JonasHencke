@@ -10,11 +10,9 @@ Eager to learn something new everyday!
 
 Currently learning:
 <br/></br>
-![Node.JS](https://img.shields.io/badge/node.js-5DAE47?logo=node.js&logoColor=white&style=for-the-badge)
+
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-00BCFF?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Storybook](https://img.shields.io/badge/storybook-FF4D89?logo=storybook&logoColor=white&style=for-the-badge)
-![Vue.js](https://img.shields.io/badge/vue.js-48BA87?logo=vue.js&logoColor=white&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-98425B?logo=jest&logoColor=white&style=for-the-badge)
 
 
 ## Technologies & Tools
@@ -34,6 +32,10 @@ Currently learning:
 ![Lit](https://img.shields.io/badge/lit-4C65FF?logo=lit&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/php-787CB4?logo=php&logoColor=white&style=for-the-badge)
 ![Expo](https://img.shields.io/badge/expo-000121?logo=expo&logoColor=white&style=for-the-badge)
+![Node.JS](https://img.shields.io/badge/node.js-5DAE47?logo=node.js&logoColor=white&style=for-the-badge)
+![Storybook](https://img.shields.io/badge/storybook-FF4D89?logo=storybook&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/vue.js-48BA87?logo=vue.js&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## More About Me
 
