@@ -13,6 +13,7 @@ Currently learning:
 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-00BCFF?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/jest-98425B?logo=jest&logoColor=white&style=for-the-badge)
+![Vitest](https://img.shields.io/badge/vitest-779E25?logo=vitest&logoColor=FCC72B&style=for-the-badge)
 
 
 ## Technologies & Tools
