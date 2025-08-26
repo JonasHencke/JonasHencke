@@ -10,10 +10,10 @@ Eager to learn something new everyday!
 
 Currently learning:
 <br/></br>
-
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-00BCFF?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/jest-98425B?logo=jest&logoColor=white&style=for-the-badge)
 ![Vitest](https://img.shields.io/badge/vitest-779E25?logo=vitest&logoColor=FCC72B&style=for-the-badge)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge)
 
 
 ## Technologies & Tools
