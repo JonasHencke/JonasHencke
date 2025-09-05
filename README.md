@@ -11,9 +11,9 @@ Eager to learn something new everyday!
 Currently learning:
 <br/></br>
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-00BCFF?logo=tailwindcss&logoColor=white&style=for-the-badge)
-![Jest](https://img.shields.io/badge/jest-98425B?logo=jest&logoColor=white&style=for-the-badge)
-![Vitest](https://img.shields.io/badge/vitest-779E25?logo=vitest&logoColor=FCC72B&style=for-the-badge)
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge)
+![Hono](https://img.shields.io/badge/Hono-FF5219?logo=hono&logoColor=fff&style=for-the-badge)
+![Drizzle](https://img.shields.io/badge/Drizzle-000?logo=drizzle&logoColor=C5F74E&style=for-the-badge)
 
 
 ## Technologies & Tools
@@ -37,6 +37,8 @@ Currently learning:
 ![Storybook](https://img.shields.io/badge/storybook-FF4D89?logo=storybook&logoColor=white&style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/vue.js-48BA87?logo=vue.js&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-98425B?logo=jest&logoColor=white&style=for-the-badge)
+![Vitest](https://img.shields.io/badge/vitest-779E25?logo=vitest&logoColor=FCC72B&style=for-the-badge)
 
 ## More About Me
 
