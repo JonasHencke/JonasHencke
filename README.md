@@ -14,6 +14,7 @@ Currently learning:
 ![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=for-the-badge)
 ![Hono](https://img.shields.io/badge/Hono-FF5219?logo=hono&logoColor=fff&style=for-the-badge)
 ![Drizzle](https://img.shields.io/badge/Drizzle-000?logo=drizzle&logoColor=C5F74E&style=for-the-badge)
+![BetterAuth](https://img.shields.io/badge/betterauth-000?logo=betterauth&logoColor=fff&style=for-the-badge)
 
 
 ## Technologies & Tools
